@@ -175,5 +175,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 🙋‍♂️ Autor
 
-Desenvolvido por **Rafael Dias**  
-💼 GitHub: [github.com/ArafelD](https://github.com/ArafelD)
+Desenvolvido por **Rafael Dias** 
